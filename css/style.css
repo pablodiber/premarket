@@ -32,28 +32,28 @@ body {
 .header-content {
   position: absolute;
   z-index: 1;
-  top: 10%;
+  top: 00%;
   left: 50%;
   margin-top: 105px;
-  margin-left: -145px;
-  width: 300px;
+  margin-left: -210px;
+  width: 500px;
   height: 350px;
   text-align: center;
   transition: all 1000ms;
 }
 
 .header-content .logo {
-  height: 200px;
-  width: 250px;
+  height: 250px;
+  width: 300px;
 }
 
 .title {
   font-family: 'Oswald', sans-serif;
-  font-size: 2.5rem;
+  font-size: 1.9rem;
 }
 
 .header-content .text {
-  line-height: 1.5;
+  line-height: 1.7;
 
 }
 
