@@ -33,9 +33,9 @@ body {
   position: absolute;
   z-index: 1;
   top: 00%;
-  left: 50%;
-  margin-top: 105px;
-  margin-left: -210px;
+  left: 40%;
+  margin-top: 10px;
+  margin-left: -149px;
   width: 500px;
   height: 350px;
   text-align: center;
@@ -53,7 +53,7 @@ body {
 }
 
 .header-content .text {
-  line-height: 1.7;
+  line-height: 1.8;
 
 }
 
